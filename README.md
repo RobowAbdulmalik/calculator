@@ -1,1 +1,3 @@
 # calculator
+## INTRODUCTION
+THIS IS A CALCULATOR APP.
